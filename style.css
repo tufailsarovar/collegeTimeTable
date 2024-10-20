@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+}
+.cg{
+    background-color: aqua;
+}
+.dwdm{
+    background-color: yellow;
+}
+.wt{
+    background-color: #f57c73;
+}
+.coi{
+    background-color: #8b58a8;
+}
+.lunch{
+    background-color: #bfff80;
+}
+.daa{
+    background-color: #fa3c6b;
+}
+.dbms{
+    background-color: #038285;
+}
+.lab{
+    background-color: #910101;
+}
+.mpia{
+    background-color: #00ffa6;
+}
+.week{
+    background-color: #98664d;
+}
+.section{
+    background-color: #ffb3d1;
+}
+.time{
+    background-color:  #b3d9ff;
+}
+.num{
+    background-color: #bfff80;
+}
+#rectangle{
+    height: 300px;
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 60px;
+}
+#colorcircle{
+       height: 20px;
+       width: 20px;
+       border: 2px solid black;
+       border-radius: 50%;
+       margin-top: 5px;
+       margin-left: 5px;
+}
+h4{
+    
+}
